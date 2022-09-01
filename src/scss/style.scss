@@ -1,0 +1,23 @@
+@import './component/navbar.scss';
+@import './component/home.scss';
+@import './component/about.scss';
+@import './component/story.scss';
+@import './component/gallery.scss';
+@import './component/event.scss';
+@import './component/family.scss';
+@import './component/rsvp.scss';
+@import './component/contact.scss';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+}
